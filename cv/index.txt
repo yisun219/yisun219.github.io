@@ -10,12 +10,124 @@ d:I[4911,[],"AsyncMetadataOutlet"]
 f:I[9665,[],"ViewportBoundary"]
 11:I[6614,[],""]
 :HL["/_next/static/css/92b53c90e215dddf.css","style"]
-0:{"P":null,"b":"gS1_ikL88PXScIEuNcopZ","p":"","c":["","cv",""],"i":false,"f":[[["",{"children":[["slug","cv","d"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/92b53c90e215dddf.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"scroll-smooth","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}],["$","link",null,{"rel":"dns-prefetch","href":"https://google-fonts.jialeliu.com"}],["$","link",null,{"rel":"preconnect","href":"https://google-fonts.jialeliu.com","crossOrigin":""}],["$","link",null,{"rel":"preload","as":"style","href":"https://google-fonts.jialeliu.com/css2?family=Inter:wght@300;400;500;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap"}],["$","link",null,{"rel":"stylesheet","id":"gfonts-css","href":"https://google-fonts.jialeliu.com/css2?family=Inter:wght@300;400;500;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap","media":"print"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              (function(){\n                var l = document.getElementById('gfonts-css');\n                if (!l) return;\n                if (l.media !== 'all') {\n                  l.addEventListener('load', function(){ try { l.media = 'all'; } catch(e){} });\n                }\n              })();\n            "}}],["$","noscript",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://google-fonts.jialeliu.com/css2?family=Inter:wght@300;400;500;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap"}]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              try {\n                const theme = localStorage.getItem('theme-storage');\n                const parsed = theme ? JSON.parse(theme) : null;\n                const setting = parsed?.state?.theme || 'system';\n                const prefersDark = typeof window !== 'undefined' && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;\n                const effective = setting === 'dark' ? 'dark' : (setting === 'light' ? 'light' : (prefersDark ? 'dark' : 'light'));\n                var root = document.documentElement;\n                root.classList.add(effective);\n                root.setAttribute('data-theme', effective);\n              } catch (e) {\n                var root = document.documentElement;\n                root.classList.add('light');\n                root.setAttribute('data-theme', 'light');\n              }\n            "}}]]}],["$","body",null,{"className":"font-sans antialiased","children":["$","$L2",null,{"children":[["$","$L3",null,{"items":[{"title":"About","type":"page","target":"about","href":"/"},{"title":"Publications","type":"page","target":"publications","href":"/publications"},{"title":"Awards","type":"page","target":"awards","href":"/awards"},{"title":"CV","type":"page","target":"cv","href":"/cv"},{"title":"Life Moment","type":"page","target":"life","href":"/life"}],"siteTitle":"Yi Sun","enableOnePageMode":false}],["$","main",null,{"className":"min-h-screen pt-16 lg:pt-20","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L6",null,{"lastUpdated":"Oct. 24, 2025"}]]}]}]]}]]}],{"children":[["slug","cv","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",["$","$L8",null,{"children":"$L9"}],null,["$","$La",null,{"children":["$Lb","$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","YzjYVcRuV_NvoSL0B5l8U",{"children":[["$","$Lf",null,{"children":"$L10"}],null]}],null]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+0:{"P":null,"b":"ekl-rysRo5qSo8b2QIiqe","p":"","c":["","cv",""],"i":false,"f":[[["",{"children":[["slug","cv","d"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/92b53c90e215dddf.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"scroll-smooth","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}],["$","link",null,{"rel":"dns-prefetch","href":"https://google-fonts.jialeliu.com"}],["$","link",null,{"rel":"preconnect","href":"https://google-fonts.jialeliu.com","crossOrigin":""}],["$","link",null,{"rel":"preload","as":"style","href":"https://google-fonts.jialeliu.com/css2?family=Inter:wght@300;400;500;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap"}],["$","link",null,{"rel":"stylesheet","id":"gfonts-css","href":"https://google-fonts.jialeliu.com/css2?family=Inter:wght@300;400;500;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap","media":"print"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              (function(){\n                var l = document.getElementById('gfonts-css');\n                if (!l) return;\n                if (l.media !== 'all') {\n                  l.addEventListener('load', function(){ try { l.media = 'all'; } catch(e){} });\n                }\n              })();\n            "}}],["$","noscript",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://google-fonts.jialeliu.com/css2?family=Inter:wght@300;400;500;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap"}]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              try {\n                const theme = localStorage.getItem('theme-storage');\n                const parsed = theme ? JSON.parse(theme) : null;\n                const setting = parsed?.state?.theme || 'system';\n                const prefersDark = typeof window !== 'undefined' && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;\n                const effective = setting === 'dark' ? 'dark' : (setting === 'light' ? 'light' : (prefersDark ? 'dark' : 'light'));\n                var root = document.documentElement;\n                root.classList.add(effective);\n                root.setAttribute('data-theme', effective);\n              } catch (e) {\n                var root = document.documentElement;\n                root.classList.add('light');\n                root.setAttribute('data-theme', 'light');\n              }\n            "}}]]}],["$","body",null,{"className":"font-sans antialiased","children":["$","$L2",null,{"children":[["$","$L3",null,{"items":[{"title":"About","type":"page","target":"about","href":"/"},{"title":"Publications","type":"page","target":"publications","href":"/publications"},{"title":"Awards","type":"page","target":"awards","href":"/awards"},{"title":"CV","type":"page","target":"cv","href":"/cv"},{"title":"Life Moment","type":"page","target":"life","href":"/life"}],"siteTitle":"Yi Sun","enableOnePageMode":false}],["$","main",null,{"className":"min-h-screen pt-16 lg:pt-20","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L6",null,{"lastUpdated":"Oct. 24, 2025"}]]}]}]]}]]}],{"children":[["slug","cv","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",["$","$L8",null,{"children":"$L9"}],null,["$","$La",null,{"children":["$Lb","$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","ta0Qs0dgyyCxjnekAkV8D",{"children":[["$","$Lf",null,{"children":"$L10"}],null]}],null]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
 12:"$Sreact.suspense"
 13:I[4911,[],"AsyncMetadata"]
 15:I[4059,["17","static/chunks/17-9c04c9413a9f9f1f.js","178","static/chunks/178-595a94b9af1e67b5.js","748","static/chunks/748-b0753eeaf12cb586.js","182","static/chunks/app/%5Bslug%5D/page-b06292ad9fd091fe.js"],"default"]
 9:["$","$12",null,{"fallback":null,"children":["$","$L13",null,{"promise":"$@14"}]}]
-7:["$","div",null,{"className":"max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[false,["$","$L15",null,{"config":{"type":"text","title":"CV","source":"cv.md"},"content":"## Upload soon\r\n"}],false]}]
+16:T194c,## Education
+
+- **South China University of Technology** (Guangzhou, China)
+  - *School of Microelectronics* | 2023.09 - Present
+  - **GPA:** 3.96/4.00 (Rank: 2/96)
+  - **English Proficiency:** TOEFL: 101 (R:28, L:26, S:23, W:24) | CET-6: 688
+  - **Relevant Courses:** Verilog and FPGA Design (99), Microcomputer System and Interfacing Technology (95), Fundamentals of C++ Programming (98), Calculus (100), Signals and Systems (98), Linear Algebra (95)
+
+- **University of California, Berkeley** (Berkeley, USA)
+  - *School of Electrical Engineering and Computer Science* | 2026.01 - 2026.05
+  - Exchange Student
+
+---
+
+## Publications
+
+- **T-Trans DPD: TCN-Enhanced Transformer for Wideband Digital Predistortion of Power Amplifiers**
+  - *2025 IEEE International Conference on Technology and Analysis (ICTA)*
+  - **First Author** (Supervised by Prof. Xiang Yi and Prof. Enyi Yao)
+
+---
+
+## Research Experience
+
+**High-Performance Heterogeneous ASIC Accelerator for Transformer Models**
+*Supervised by Prof. Tim CHENG and Prof. Chi-Ying TSUI | 2025.10 - Present*
+- **Architected** a heterogeneous multi-core ASIC dedicated to accelerating Transformer-based neural networks.
+- **Designed** a specialized hardware accelerator integrating heterogeneous processing units to optimize the execution of Transformer workloads.
+- **Implemented** a high-performance hardware solution leveraging heterogeneous cores to balance computation and memory access effectively.
+
+**Generation and Optimization of Spatial Accelerators for Tensor Workloads**
+*Supervised by Prof. Jieru Zhao | 2025.09 - 2025.12*
+- **Implemented** an Output Stationary (OS) Systolic Array using Verilog for high-performance computing.
+- **Designed** the on-chip architecture to execute General Matrix Multiplication (GEMM) followed by Sigmoid activation functions within a unified hardware pipeline.
+- **Proposed** a novel mapping strategy and optimized dataflow, resulting in improved data reuse and high hardware utilization.
+
+**TCN-Enhanced Transformer for Wideband Digital Predistortion**
+*Supervised by Prof. Xiang Yi and Prof. Enyi Yao | 2025.03 - 2025.09*
+- **Proposed** a novel neural network algorithm based on Temporal Convolutional Networks (TCN) and Transformers for digital predistortion, specifically designed for both Digital Power Amplifiers (DPA) and Analog Power Amplifiers (APA).
+- **Utilized** the OpenDPD training framework to implement the digital pre-distortion algorithm, achieving training performance that exceeded baseline models.
+
+**Millimeter Wave Reconfigurable Low Noise Amplifier Design (65nm CMOS)**
+*Supervised by Prof. Li Gao | 2024.11 - 2025.10*
+- **Designed** a millimeter-wave Low Noise Amplifier (LNA) with band-reconfigurable functions using TSMC 65nm CMOS process, achieving optimal S-parameters, low power consumption, and low noise factor.
+- **Explored** novel reconfigurable inter-stage and output matching networks, minimizing Q-factor loss during functional reconfiguration.
+- **Conducted** design and simulation of tri-coupled transformers within the matching networks.
+
+**Analog Front End Design for High-speed Serial Interface Receiver**
+*Supervised by Prof. Guangyin Feng | 2025.03 - 2025.08*
+- **Designed** and **implemented** a 100Gb/s PAM-4 Analog Front End (AFE) in TSMC 65nm technology, integrating a 1-stage CTLE and a 2-stage VGA.
+- **Demonstrated** 3-12dB peaking gain at the Nyquist frequency through post-layout simulation, ensuring signal integrity for high-speed transmission.
+- **Expanded** system bandwidth by utilizing a transformer load in the first-stage VGA to introduce an auxiliary pole, while optimizing total power consumption to ~11mW.
+
+**Receiver Design Based on Kramers-Kronig Relation**
+*Supervised by Prof. Guangyin Feng | 2024.09 - 2024.11*
+- **Conducted** system-level modeling of a Kramers-Kronig (KK) receiver in MATLAB, reproducing the architecture of a synthesizer-free coherent receiver (Ref: ISSCC 12.2).
+- **Investigated** mixed-signal phase reconstruction techniques and **developed** a compensation algorithm to effectively mitigate phase signal distortion.
+
+---
+
+## Contest Awards
+
+- **Third Prize**, 9th National Integrated Circuit Innovation and Entrepreneurship Competition (National Final, 2025)
+- **First Prize**, 9th National Integrated Circuit Innovation and Entrepreneurship Competition (South China Regional, 2025)
+- **First Prize**, 16th National Undergraduate Mathematics Competition (2024)
+- **Successful Participation**, Mathematical Contest in Modeling (MCM, 2025)
+- **Honorable Mention**, Mathematical Contest in Modeling (MCM, 2024)
+- **Third Prize**, 14th APMCM Asia-Pacific Mathematical Contest in Modeling (2024)
+- **Winning Prize**, National Undergraduate Mathematical Modeling Competition (Guangdong Division, 2024)
+
+---
+
+## Skills
+
+- **Self-Learning (Online Courses):**
+  - **MIT:** 6.S191 Introduction to Deep Learning
+  - **UC Berkeley:** EE 140 Linear Integrated Circuits, CS 61C Great Ideas in Computer Architecture, EECS 151 Introduction to Digital Design and ICs
+  - **Conference Tutorials:** ISSCC, CICC, ESSERC (Slides & Video)
+- **Programming:** Verilog, SystemVerilog, C/C++, Python, MATLAB
+- **Frameworks:** PyTorch, Tensorflow
+- **IC & FPGA Tools:** Cadence Virtuoso, Cadence Innovus, Design Compiler, ModelSim, Vivado
+- **Tools:** Visio, OriginPro, PowerPoint, LaTeX, Zotero
+
+---
+
+## Student Awards & Leadership
+
+**Scholarships**
+- **National Scholarship** (Top 1%, Awarded for Two Consecutive Years: 2023-2025) - *10,000 CNY/year*
+- **First-Class Scholarship** (Awarded for Two Consecutive Years: 2023-2025) - *3,000 CNY/year*
+- **Outstanding Student Scholarship** (2024-2025) - *3,000 CNY/year*
+- **Holedfound Enterprise Scholarship** (2024-2025) - *8,000 CNY/year*
+- **Xiao Noodle Enterprise Scholarship** (2023-2024) - *1,000 CNY/year*
+
+**Leadership & Activities**
+- **President**, Student Union (2024.12 - 2025.12)
+- **Head**, Student Union Sports Department (2024.12 - 2025.12)
+- **Merit Student**, South China University of Technology (2024.11)
+- **Outstanding Student Union Cadre**, South China University of Technology (2025.04)
+- **First Place**, School Football Tournament (2025.04)
+- **Second Place**, School Basketball Tournament (2024.04)
+
+---
+
+## Languages
+
+- **English:** Fluent (TOEFL 101)
+- **Chinese:** Native
+
+
+
+[Click here to download my CV😊](/CV_YiSun.pdf)
+7:["$","div",null,{"className":"max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[false,["$","$L15",null,{"config":{"type":"text","title":"CV","source":"cv.md","url":"CV_YiSun.pdf"},"content":"$16"}],false]}]
 c:null
 10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 b:null
